@@ -1,30 +1,42 @@
-Dimension by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Personal Portfolio - Alanoud AlRazin
 
+Welcome to my personal portfolio website! This site showcases my skills, projects, and professional experience in Data Science, AI, and Web Development.
 
-This is Dimension, a fun little one-pager with modal-ized (is that a word?) "pages"
-and a cool depth effect (click on a menu item to see what I mean). Simple, fully
-responsive, and kitted out with all the usual pre-styled elements you'd expect.
-Hope you dig it :)
+## About Me
+Hi, I'm Alanoud AlRazin, a Computer Science graduate with hands-on experience in Data Science, Machine Learning, and full-stack web development. I am passionate about turning data into actionable insights and creating interactive, user-friendly applications.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+## Projects
+Here are some highlights of my projects:
 
-(* = not included)
+### Chromacity App — Graduation Project
+- **Description:** An AI-powered application that analyzes images to help distinguish colors, exercise the eyes, and provide a test for color blindness.
+- **Skills:** Computer Vision, CNNs, Python (OpenCV, TensorFlow/PyTorch), Machine Learning, Deep Learning, Data Preprocessing, Model Evaluation & Testing, User-Centered Design.
 
-AJ
-aj@lkn.io | @ajlkn
+### Smart Crowd Management System in Makkah
+- **Description:** Developed a smart crowd control center using YOLOv8 and time series models to predict crowded days and monitor density in real-time.
+- **Skills:** Python, TensorFlow, YOLOv8, OpenCV, Streamlit, Plotly, Team Leadership, Data Analysis.
 
+### FindSure — Web-based Search Tool
+- **Description:** A web app that helps users find trusted information from the web using Google Programmable Search Engine.
+- **Skills:** Python, Streamlit, CSS, Google CSE, HTTP libraries.
 
-Credits:
+### Healthcare Analytics Dashboard
+- **Description:** Interactive dashboards for patient data analytics using Power BI, supporting faster and more accurate medical decision-making.
+- **Skills:** Power BI, Data Visualization, Data Analysis, Healthcare Analytics.
 
-	Demo Images:
-		Unsplash (unsplash.com)
+### Tayaqqan — AI-Powered Financial Advisor
+- **Description:** An AI chatbot that provides personalized financial reports, investment risk analysis, and automates financial tasks.
+- **Skills:** Python, AI/ML Models, ARIMA Forecasting, Streamlit, Data Security.
 
-	Icons:
-		Font Awesome (fontawesome.io)
+## Technologies & Skills
+- **Languages & Tools:** Python, SQL, Git & GitHub, Jupyter Notebooks, Streamlit, Power BI
+- **Machine Learning & AI:** Linear & Logistic Regression, Ensemble Methods, Deep Learning (CNN, RNN, Transformers), NLP
+- **Web Development:** HTML, CSS, JavaScript, GitHub Pages
+- **Soft Skills:** Teamwork, Leadership, Problem Solving, Analytical Thinking
 
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+## Deployment
+This website is hosted on **GitHub Pages**: [https://alanoudniaf.github.io/portfolio/](https://alanoudniaf.github.io/portfolio/)
+
+---
+
+Thank you for visiting my portfolio! Feel free to reach out via the contact form on the site.
